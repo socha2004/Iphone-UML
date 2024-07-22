@@ -1,0 +1,6 @@
+bin/iphone/Fabrica.class
+bin/iphone/devices/Iphone.class
+bin/iphone/interfaces/AparelhoMusical.class
+bin/iphone/interfaces/AparelhoTelefonico.class
+bin/iphone/interfaces/NavegadorDeInternet.class
+.vscode/settings.json
